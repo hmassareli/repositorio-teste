@@ -1,0 +1,27 @@
+header {
+  height: 100vh;
+  background-image: url(../imagens/spidermanheader.jpg);
+  background-size: 110%;
+  background-position: left center;
+}
+
+ul li {
+  color: white;
+  list-style: none;
+}
+
+nav {
+  display: flex;
+}
+
+nav ul {
+  gap: 10px;
+  display: flex;
+}
+.quemsomos {
+  background-image: url(../imagens/thor_header.jpg);
+}
+
+.quemsomos h1 {
+  /* color: red; */
+}
